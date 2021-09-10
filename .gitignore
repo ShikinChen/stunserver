@@ -32,7 +32,9 @@
 *.out
 *.app
 
-stunserver/server/*.txtcode
-stunserver/client/*.txtcode
-
 cmake-build-*
+
+/stunserver/server/*.txtcode
+/stunserver/client/*.txtcode
+
+.idea
